@@ -28,7 +28,7 @@ p {	padding:0px;}
 	background-repeat: no-repeat;
 	border-bottom: 8px solid #f3d005;
 }
-.nav { border: 0px solid green; display:table; width:100%; max-width:750px; text-align:right;}
+.nav { border: 0px solid green; display:table; width:100%; max-width:750px; text-align:right; font-size:20px}
 .nav ul {list-style-type: none; color:#f3d005; border: 0px solid yellow; display:inline-block; margin:0; height:55px; }
 .nav li { display:inline-block; padding:3px 15px; border:0px solid yellow;}
 .nav a {color:#f3d005; text-decoration:none; font-size:20px;}
