@@ -33,6 +33,11 @@ p {	padding:0px;}
 .nav li { display:inline-block; padding:3px 15px; border:0px solid yellow;}
 .nav a {color:#f3d005; text-decoration:none; }
 
+
+.content {
+    padding: 0px 15px;
+}
+
 @media only screen and (max-width: 600px) {
   .nav  ul{
     max-width:300px;
@@ -40,6 +45,11 @@ p {	padding:0px;}
 	body {font-size: 35px;}
 	a {font-size:35px;}
 }
-.content {
-    padding: 0px 15px;
+
+@media only screen and (max-width: 400px) {
+	body {font-size: 30px;}
+	.nav ul {font-size:30px;}
+	.nav li {font-size:30px;}
+	.nav a {font-size:30px;}
 }
+
