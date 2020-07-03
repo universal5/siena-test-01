@@ -31,7 +31,7 @@ p {	padding:0px;}
 .nav { border: 0px solid green; display:table; width:100%; max-width:750px; text-align:right;}
 .nav ul {list-style-type: none; color:#f3d005; border: 0px solid yellow; display:inline-block; margin:0; height:55px; }
 .nav li { display:inline-block; padding:3px 15px; border:0px solid yellow;}
-.nav a {color:#f3d005; text-decoration:none; font-size:14px;}
+.nav a {color:#f3d005; text-decoration:none; font-size:24px;}
 
 @media only screen and (max-width: 600px) {
   .nav  ul{
