@@ -32,13 +32,13 @@ p {	padding:0px;}
 }
 
 .logo {
-	display:table-cell;
+	display:table-cell; border:1px solid red;
 }
 
 .logo img { height:100px;}
 
 .HeaderRight {
-	display:table-cell;
+	display:table-cell; border:1px solid red;
 }
 
 .nav { border: 1px solid green; float:right; width:auto; max-width:750px; text-align:right; }
