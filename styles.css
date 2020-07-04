@@ -30,7 +30,7 @@ p {	padding:0px;}
 }
 
 .logo {
-	float:left;
+	float:left; height:100px; width:100px;
 }
 
 .nav { border: 0px solid green; display:table; width:100%; max-width:750px; text-align:right; }
