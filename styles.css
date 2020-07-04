@@ -44,11 +44,6 @@ p {	padding:0px;}
     padding: 0px 15px;
 }
 
-@media only screen and (max-width: 700px) {
-	.nav ul{ 
-		max-width:500px;
-  	}	
-}
 @media only screen and (max-width: 600px) {
 	.nav ul{ 
 		max-width:300px;
