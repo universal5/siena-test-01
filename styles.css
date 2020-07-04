@@ -27,10 +27,15 @@ p {	padding:0px;}
 	background-image: url(bg-yellow-verticals.jpg);
 	background-repeat: no-repeat;	
 	border-bottom: 8px solid #f3d005;
+	display:table;
 }
 
 .logo {
-	float:left; height:100px; width:100px;
+	display:table-cell; 
+}
+
+.HeaderRight {
+	display:table-cell;
 }
 
 .nav { border: 1px solid green; float:right; width:auto; max-width:750px; text-align:right; }
