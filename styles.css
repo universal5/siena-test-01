@@ -9,12 +9,7 @@ body{ 	background-color:#888;
 		margin:auto;
         height:auto;
 	}
-h1{	color:#eed; 			
-	font-size: 55;
-	border: 0px solid blue;
-	margin:0; margin-left:110px;
-	padding-left:20px; padding-bottom:10px;
-	}
+
 p {	padding:0px;}
 
 .PageWrap{
@@ -46,6 +41,13 @@ p {	padding:0px;}
 .nav li { display:inline-block; padding:3px 15px; border:0px solid yellow;}
 .nav a {color:#f3d005; text-decoration:none; }
 
+
+.HeaderRight h1{color:#eed; 			
+		font-size: 55;
+		border: 1px solid blue;
+		margin:0; margin-left:110px;
+		padding-left:20px; padding-bottom:10px;
+	}
 
 .content {
     padding: 0px 15px;
