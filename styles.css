@@ -26,6 +26,7 @@ p {	padding:0px;}
 	background-color: #1A1D24;
 	background-image: url(bg-yellow-verticals.jpg);
 	background-repeat: no-repeat;
+	min-height:110px;
 	border-bottom: 8px solid #f3d005;
 }
 
