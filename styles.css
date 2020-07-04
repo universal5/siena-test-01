@@ -33,7 +33,7 @@ p {	padding:0px;}
 .logo img { height:100px;}
 
 .HeaderRight {
-	display:table-cell; border:1px solid red;
+	display:table-cell; border:1px solid red; vertical-align:top;
 }
 
 .nav { border: 1px solid green; width:100%; /*max-width:750px;*/ text-align:right; }
