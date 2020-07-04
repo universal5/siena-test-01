@@ -31,8 +31,10 @@ p {	padding:0px;}
 }
 
 .logo {
-	display:table-cell; 
+	display:table-cell;
 }
+
+.logo img { height:100px;}
 
 .HeaderRight {
 	display:table-cell;
